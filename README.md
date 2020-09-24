@@ -18,5 +18,5 @@ The main contents of this repo are as follows:
 project
 └─── week1
 │   │   fashion-mnist.ipynb 
-└─── week1
+└─── week2
 |   |   DQN (CNN).ipynb
